@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A Software Engineer with technical experience in Java Development & passionate about learning new technologies and solving complex technical problems in software applications.</h3>
+<h3 align="center">A Tech Enthusiast with technical experience in Java Development & Data Engineering passionate about learning new technologies and solving complex technical problems in software applications.</h3>
 
-- 🌱 I’m currently learning AWS Cloud Platform **AWS EC2, Elastic Block Storage and EFS, Elastic Load Balancing and Auto Scaling Groups**
+- 🌱 I’m currently learning Microsoft Fabric Data Engineering DP-700**
 
 - 📫 How to reach me **mittaldhruv99@gmail.com**
 
